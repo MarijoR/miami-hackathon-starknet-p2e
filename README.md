@@ -72,7 +72,7 @@ We are essentially building on the StarkNet Blockchain, using Cairo. Next to thi
 
 ## TEAM
 
-( Alessandro Cara
+* Alessandro Cara
 * Andrea Schlüter
 * Chifunda Kakusa
 * Marijo Radman
